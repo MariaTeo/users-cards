@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Users Lisy",
+  "name": "You can see the users info displayyed in a logical manner. You can also choose to filter the data.",
   "icons": [
     {
       "src": "favicon.ico",
